@@ -6,14 +6,14 @@ namespace DolphinFacebook
     {
         static void Main(string[] args)
         {
-            DisplayA displyA = new DisplayA();
-            DisplayB displyB = new DisplayB();
-            DisplayC displyC = new DisplayC();
+            DisplayA displayA = new DisplayA();
+            DisplayB displayB = new DisplayB();
+            DisplayC displayC = new DisplayC();
             FacebookClientFactory facebookClientFactory = new FacebookClientFactory();
 
-            var facebookClientA = facebookClientFactory.CreateClient(displyA);
-            var facebookClientB = facebookClientFactory.CreateClient(displyB);
-            var facebookClientC = facebookClientFactory.CreateClient(displyC);
+            var facebookClientA = facebookClientFactory.CreateClient(displayA);
+            var facebookClientB = facebookClientFactory.CreateClient(displayB);
+            var facebookClientC = facebookClientFactory.CreateClient(displayC);
 
             facebookClientB.Subscribe(facebookClientA);
             facebookClientC.Subscribe(facebookClientA);
