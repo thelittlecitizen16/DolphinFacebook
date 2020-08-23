@@ -1,0 +1,15 @@
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.exe
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.deps.json
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.dll
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.pdb
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\MamaFacebook.Abstract.dll
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.csproj.CopyComplete
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.dll
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.pdb
+C:\Users\thelittlecitizen16\source\repos\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.genruntimeconfig.cache
