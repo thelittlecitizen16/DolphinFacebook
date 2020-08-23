@@ -5,11 +5,11 @@ using MamaFacebook.Abstract;
 
 namespace DolphinFacebook
 {
-    public class Disply : IDisplay
+    public class DisplayA : IDisplay
     {
         public void DisplayWallPost(string wallPost)
         {
-            Console.WriteLine(wallPost);     
+            Console.WriteLine(wallPost + " A");     
         }
     }
 }
